@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
+  - title: "Publications"
     url: /posts/
-  - title: "Categories"
+  - title: "Events"
     url: /categories/
-  - title: "Tags"
+  - title: "Projects"
     url: /tags/
-  - title: "About"
+  - title: "In Portuguese"
     url: /about/
