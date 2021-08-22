@@ -1,8 +1,6 @@
 ---
 title: "Research"
-layout: categories
 permalink: /research/
-author_profile: true
 ---
 
 My research studies includes...
